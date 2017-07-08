@@ -1,1 +1,1 @@
-# 100days
+# 100days Algo Challenge
